@@ -1,0 +1,2 @@
+class PrBenchmarkError(Exception):
+    pass
